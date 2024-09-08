@@ -1,0 +1,1 @@
+void __attribute__((cdecl)) i686_Panic();
